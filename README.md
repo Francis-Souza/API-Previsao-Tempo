@@ -2,6 +2,10 @@
 
 <h2>Desenvolvendo uma API de Previsão do Tempo</h2>
 
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+
+<h3>DESCRIÇÃO DO PROJETO</h3>
+
 Pequena API para previsão do tempo por localidade.
 
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
